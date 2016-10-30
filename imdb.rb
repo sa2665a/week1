@@ -1,0 +1,2 @@
+require 'imdb'
+require 'pry'
